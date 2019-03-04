@@ -53,7 +53,7 @@ def decMakeDir(func):
 
         return dirname
 
-    return func
+    return handleFunc
 
 
 def getWorkDir():
